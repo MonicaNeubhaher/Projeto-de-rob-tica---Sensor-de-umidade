@@ -1,0 +1,5 @@
+{
+  "name": "Arduino DHT11 Lab",
+  "description": "A virtual Arduino laboratory to simulate and understand the DHT11 temperature and humidity sensor connection and coding.",
+  "requestFramePermissions": []
+}
